@@ -1,0 +1,12 @@
+c:\users\ghi\source\repos\Ardumoto\Ardumoto\bin\Debug\Ardumoto.exe
+c:\users\ghi\source\repos\Ardumoto\Ardumoto\bin\Debug\Ardumoto.pdb
+c:\users\ghi\source\repos\Ardumoto\Ardumoto\bin\Debug\GHIElectronics.TinyCLR.Devices.dll
+c:\users\ghi\source\repos\Ardumoto\Ardumoto\bin\Debug\GHIElectronics.TinyCLR.Networking.dll
+c:\users\ghi\source\repos\Ardumoto\Ardumoto\bin\Debug\GHIElectronics.TinyCLR.Networking.SPWF04Sx.dll
+c:\users\ghi\source\repos\Ardumoto\Ardumoto\bin\Debug\GHIElectronics.TinyCLR.Pins.dll
+c:\users\ghi\source\repos\Ardumoto\Ardumoto\bin\Debug\mscorlib.dll
+c:\users\ghi\source\repos\Ardumoto\Ardumoto\obj\Debug\Ardumoto.csprojAssemblyReference.cache
+c:\users\ghi\source\repos\Ardumoto\Ardumoto\obj\Debug\Ardumoto.csproj.CoreCompileInputs.cache
+c:\users\ghi\source\repos\Ardumoto\Ardumoto\obj\Debug\Ardumoto.csproj.CopyComplete
+c:\users\ghi\source\repos\Ardumoto\Ardumoto\obj\Debug\Ardumoto.exe
+c:\users\ghi\source\repos\Ardumoto\Ardumoto\obj\Debug\Ardumoto.pdb
